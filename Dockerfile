@@ -7,6 +7,9 @@ WORKDIR /app
 # copy of maven configuration (pom.xml) and dependencies
 COPY . .
 
+# the command below will make mvnw executable
+RUN chmod +x ./mvnw
+
 # Maven build
 RUN ./mvnw clean package -DskipTests
 
