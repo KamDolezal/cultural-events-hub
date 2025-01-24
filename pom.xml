@@ -11,7 +11,7 @@
 	<groupId>cz.kdolezal</groupId>
 	<artifactId>culturaleventshub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eventmanagementsystem</name>
+	<name>culturaleventshub</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -38,10 +38,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-mail</artifactId>
-		</dependency>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
