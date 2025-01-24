@@ -1,0 +1,5 @@
+2025-01-24T02:04:25.684+01:00  WARN 15024 --- [eventmanagementsystem] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3h28s994ms770µs100ns).
+2025-01-24T09:36:50.966+01:00  WARN 15024 --- [eventmanagementsystem] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7h32m28s719ms887µs500ns).
+2025-01-24T09:53:45.083+01:00  INFO 15024 --- [eventmanagementsystem] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-01-24T09:53:45.086+01:00  INFO 15024 --- [eventmanagementsystem] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2025-01-24T09:53:45.090+01:00  INFO 15024 --- [eventmanagementsystem] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
