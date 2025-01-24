@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cz.kdolezal</groupId>
-	<artifactId>eventmanagementsystem</artifactId>
+	<artifactId>culturaleventshub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eventmanagementsystem</name>
 	<description>Demo project for Spring Boot</description>

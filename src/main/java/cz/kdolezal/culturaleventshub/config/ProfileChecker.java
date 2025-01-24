@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.config;
+package cz.kdolezal.culturaleventshub.config;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Value;

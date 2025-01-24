@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.security;
+package cz.kdolezal.culturaleventshub.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

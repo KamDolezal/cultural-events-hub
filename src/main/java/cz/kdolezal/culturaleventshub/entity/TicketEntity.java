@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.entity;
+package cz.kdolezal.culturaleventshub.entity;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;

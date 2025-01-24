@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.dto;
+package cz.kdolezal.culturaleventshub.dto;
 
 import lombok.Value;
 

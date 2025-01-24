@@ -1,7 +1,7 @@
-package cz.kdolezal.eventmanagementsystem.mapper;
+package cz.kdolezal.culturaleventshub.mapper;
 
-import cz.kdolezal.eventmanagementsystem.dto.RoleDTO;
-import cz.kdolezal.eventmanagementsystem.entity.RoleEntity;
+import cz.kdolezal.culturaleventshub.dto.RoleDTO;
+import cz.kdolezal.culturaleventshub.entity.RoleEntity;
 import org.springframework.stereotype.Component;
 
 @Component

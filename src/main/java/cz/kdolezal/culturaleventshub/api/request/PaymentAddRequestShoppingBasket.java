@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.api.request;
+package cz.kdolezal.culturaleventshub.api.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

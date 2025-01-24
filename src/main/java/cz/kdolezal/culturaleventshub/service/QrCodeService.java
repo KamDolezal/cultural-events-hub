@@ -1,13 +1,13 @@
-package cz.kdolezal.eventmanagementsystem.service;
+package cz.kdolezal.culturaleventshub.service;
 
-import cz.kdolezal.eventmanagementsystem.api.QrService;
-import cz.kdolezal.eventmanagementsystem.api.TicketService;
-import cz.kdolezal.eventmanagementsystem.api.request.QrDecryptRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.TicketAddQrRequest;
-import cz.kdolezal.eventmanagementsystem.entity.TicketEntity;
-import cz.kdolezal.eventmanagementsystem.qrcode.EncryptionUtil;
-import cz.kdolezal.eventmanagementsystem.qrcode.QRCodeGenerator;
-import cz.kdolezal.eventmanagementsystem.repository.TicketJpaRepository;
+import cz.kdolezal.culturaleventshub.api.QrService;
+import cz.kdolezal.culturaleventshub.api.TicketService;
+import cz.kdolezal.culturaleventshub.api.request.QrDecryptRequest;
+import cz.kdolezal.culturaleventshub.api.request.TicketAddQrRequest;
+import cz.kdolezal.culturaleventshub.entity.TicketEntity;
+import cz.kdolezal.culturaleventshub.qrcode.EncryptionUtil;
+import cz.kdolezal.culturaleventshub.qrcode.QRCodeGenerator;
+import cz.kdolezal.culturaleventshub.repository.TicketJpaRepository;
 import org.springframework.stereotype.Service;
 
 @Service

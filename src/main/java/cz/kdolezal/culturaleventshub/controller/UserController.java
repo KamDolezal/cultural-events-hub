@@ -1,10 +1,10 @@
-package cz.kdolezal.eventmanagementsystem.controller;
+package cz.kdolezal.culturaleventshub.controller;
 
-import cz.kdolezal.eventmanagementsystem.api.UserService;
-import cz.kdolezal.eventmanagementsystem.api.request.UserAddRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.UserLoginRequest;
-import cz.kdolezal.eventmanagementsystem.dto.UserDTO;
-import cz.kdolezal.eventmanagementsystem.security.JwtService;
+import cz.kdolezal.culturaleventshub.api.UserService;
+import cz.kdolezal.culturaleventshub.api.request.UserAddRequest;
+import cz.kdolezal.culturaleventshub.api.request.UserLoginRequest;
+import cz.kdolezal.culturaleventshub.dto.UserDTO;
+import cz.kdolezal.culturaleventshub.security.JwtService;
 import java.util.Map;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

@@ -1,8 +1,8 @@
-package cz.kdolezal.eventmanagementsystem.controller;
+package cz.kdolezal.culturaleventshub.controller;
 
-import cz.kdolezal.eventmanagementsystem.api.PaymentService;
-import cz.kdolezal.eventmanagementsystem.api.request.PaymentAddRequestShoppingBasket;
-import cz.kdolezal.eventmanagementsystem.dto.PaymentDTO;
+import cz.kdolezal.culturaleventshub.api.PaymentService;
+import cz.kdolezal.culturaleventshub.api.request.PaymentAddRequestShoppingBasket;
+import cz.kdolezal.culturaleventshub.dto.PaymentDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

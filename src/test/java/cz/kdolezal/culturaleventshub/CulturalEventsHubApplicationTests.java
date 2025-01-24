@@ -1,10 +1,10 @@
-package cz.kdolezal.eventmanagementsystem;
+package cz.kdolezal.culturaleventshub;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventManagementSystemApplicationTests {
+class CulturalEventsHubApplicationTests {
 
 	@Test
 	void contextLoads() {

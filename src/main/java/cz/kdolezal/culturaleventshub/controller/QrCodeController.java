@@ -1,7 +1,7 @@
-package cz.kdolezal.eventmanagementsystem.controller;
+package cz.kdolezal.culturaleventshub.controller;
 
-import cz.kdolezal.eventmanagementsystem.api.QrService;
-import cz.kdolezal.eventmanagementsystem.api.request.QrDecryptRequest;
+import cz.kdolezal.culturaleventshub.api.QrService;
+import cz.kdolezal.culturaleventshub.api.request.QrDecryptRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

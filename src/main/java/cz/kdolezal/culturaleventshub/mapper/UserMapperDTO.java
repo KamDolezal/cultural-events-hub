@@ -1,9 +1,9 @@
-package cz.kdolezal.eventmanagementsystem.mapper;
+package cz.kdolezal.culturaleventshub.mapper;
 
-import cz.kdolezal.eventmanagementsystem.dto.UserDTO;
-import cz.kdolezal.eventmanagementsystem.entity.PaymentEntity;
-import cz.kdolezal.eventmanagementsystem.entity.TicketEntity;
-import cz.kdolezal.eventmanagementsystem.entity.UserEntity;
+import cz.kdolezal.culturaleventshub.dto.UserDTO;
+import cz.kdolezal.culturaleventshub.entity.PaymentEntity;
+import cz.kdolezal.culturaleventshub.entity.TicketEntity;
+import cz.kdolezal.culturaleventshub.entity.UserEntity;
 import org.springframework.stereotype.Component;
 
 import java.util.stream.Collectors;

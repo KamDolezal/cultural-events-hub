@@ -1,13 +1,13 @@
-package cz.kdolezal.eventmanagementsystem;
+package cz.kdolezal.culturaleventshub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EventManagementSystemApplication {
+public class CulturalEventsHubApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EventManagementSystemApplication.class, args);
+        SpringApplication.run(CulturalEventsHubApplication.class, args);
     }
 
 }

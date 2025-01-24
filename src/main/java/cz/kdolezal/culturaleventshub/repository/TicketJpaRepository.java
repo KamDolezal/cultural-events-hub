@@ -1,6 +1,6 @@
-package cz.kdolezal.eventmanagementsystem.repository;
+package cz.kdolezal.culturaleventshub.repository;
 
-import cz.kdolezal.eventmanagementsystem.entity.TicketEntity;
+import cz.kdolezal.culturaleventshub.entity.TicketEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,15 +1,15 @@
-package cz.kdolezal.eventmanagementsystem.service;
+package cz.kdolezal.culturaleventshub.service;
 
-import cz.kdolezal.eventmanagementsystem.api.EventService;
-import cz.kdolezal.eventmanagementsystem.api.exception.BadRequestException;
-import cz.kdolezal.eventmanagementsystem.api.exception.InternalErrorException;
-import cz.kdolezal.eventmanagementsystem.api.exception.ResourceNotFoundException;
-import cz.kdolezal.eventmanagementsystem.api.request.EventAddRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.EventEditRequest;
-import cz.kdolezal.eventmanagementsystem.dto.EventDTO;
-import cz.kdolezal.eventmanagementsystem.entity.EventEntity;
-import cz.kdolezal.eventmanagementsystem.mapper.EventMapperDTO;
-import cz.kdolezal.eventmanagementsystem.repository.EventJpaRepository;
+import cz.kdolezal.culturaleventshub.api.EventService;
+import cz.kdolezal.culturaleventshub.api.exception.BadRequestException;
+import cz.kdolezal.culturaleventshub.api.exception.InternalErrorException;
+import cz.kdolezal.culturaleventshub.api.exception.ResourceNotFoundException;
+import cz.kdolezal.culturaleventshub.api.request.EventAddRequest;
+import cz.kdolezal.culturaleventshub.api.request.EventEditRequest;
+import cz.kdolezal.culturaleventshub.dto.EventDTO;
+import cz.kdolezal.culturaleventshub.entity.EventEntity;
+import cz.kdolezal.culturaleventshub.mapper.EventMapperDTO;
+import cz.kdolezal.culturaleventshub.repository.EventJpaRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.dao.DataAccessException;

@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.api.exception;
+package cz.kdolezal.culturaleventshub.api.exception;
 
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.expression.spel.SpelEvaluationException;

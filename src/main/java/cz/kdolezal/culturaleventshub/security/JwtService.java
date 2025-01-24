@@ -1,6 +1,6 @@
-package cz.kdolezal.eventmanagementsystem.security;
+package cz.kdolezal.culturaleventshub.security;
 
-import cz.kdolezal.eventmanagementsystem.entity.UserEntity;
+import cz.kdolezal.culturaleventshub.entity.UserEntity;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.io.Decoders;

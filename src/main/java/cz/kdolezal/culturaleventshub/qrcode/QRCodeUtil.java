@@ -1,6 +1,6 @@
-package cz.kdolezal.eventmanagementsystem.qrcode;
+package cz.kdolezal.culturaleventshub.qrcode;
 
-import cz.kdolezal.eventmanagementsystem.api.exception.QRCodeGenerationException;
+import cz.kdolezal.culturaleventshub.api.exception.QRCodeGenerationException;
 import org.springframework.stereotype.Component;
 
 import java.awt.image.BufferedImage;

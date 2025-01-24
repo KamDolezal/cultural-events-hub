@@ -1,9 +1,9 @@
-package cz.kdolezal.eventmanagementsystem.controller;
+package cz.kdolezal.culturaleventshub.controller;
 
-import cz.kdolezal.eventmanagementsystem.api.EventService;
-import cz.kdolezal.eventmanagementsystem.api.request.EventAddRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.EventEditRequest;
-import cz.kdolezal.eventmanagementsystem.dto.EventDTO;
+import cz.kdolezal.culturaleventshub.api.EventService;
+import cz.kdolezal.culturaleventshub.api.request.EventAddRequest;
+import cz.kdolezal.culturaleventshub.api.request.EventEditRequest;
+import cz.kdolezal.culturaleventshub.dto.EventDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;

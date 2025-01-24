@@ -1,6 +1,6 @@
-package cz.kdolezal.eventmanagementsystem.security.expression;
+package cz.kdolezal.culturaleventshub.security.expression;
 
-import cz.kdolezal.eventmanagementsystem.repository.EventJpaRepository;
+import cz.kdolezal.culturaleventshub.repository.EventJpaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

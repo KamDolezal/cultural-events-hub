@@ -1,9 +1,9 @@
-package cz.kdolezal.eventmanagementsystem.api;
+package cz.kdolezal.culturaleventshub.api;
 
-import cz.kdolezal.eventmanagementsystem.api.request.UserAddRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.UserLoginRequest;
-import cz.kdolezal.eventmanagementsystem.dto.UserDTO;
-import cz.kdolezal.eventmanagementsystem.entity.UserEntity;
+import cz.kdolezal.culturaleventshub.api.request.UserAddRequest;
+import cz.kdolezal.culturaleventshub.api.request.UserLoginRequest;
+import cz.kdolezal.culturaleventshub.dto.UserDTO;
+import cz.kdolezal.culturaleventshub.entity.UserEntity;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package cz.kdolezal.eventmanagementsystem.service;
+package cz.kdolezal.culturaleventshub.service;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.internet.MimeMessage;

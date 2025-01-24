@@ -1,8 +1,8 @@
-package cz.kdolezal.eventmanagementsystem.init;
+package cz.kdolezal.culturaleventshub.init;
 
-import cz.kdolezal.eventmanagementsystem.api.QrService;
-import cz.kdolezal.eventmanagementsystem.api.TicketService;
-import cz.kdolezal.eventmanagementsystem.entity.TicketEntity;
+import cz.kdolezal.culturaleventshub.api.QrService;
+import cz.kdolezal.culturaleventshub.api.TicketService;
+import cz.kdolezal.culturaleventshub.entity.TicketEntity;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

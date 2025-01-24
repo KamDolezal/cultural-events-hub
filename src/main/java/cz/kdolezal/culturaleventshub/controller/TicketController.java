@@ -1,8 +1,8 @@
-package cz.kdolezal.eventmanagementsystem.controller;
+package cz.kdolezal.culturaleventshub.controller;
 
-import cz.kdolezal.eventmanagementsystem.api.TicketService;
-import cz.kdolezal.eventmanagementsystem.api.request.TicketAddRequest;
-import cz.kdolezal.eventmanagementsystem.dto.TicketDTO;
+import cz.kdolezal.culturaleventshub.api.TicketService;
+import cz.kdolezal.culturaleventshub.api.request.TicketAddRequest;
+import cz.kdolezal.culturaleventshub.dto.TicketDTO;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;

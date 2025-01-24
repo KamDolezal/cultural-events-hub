@@ -1,7 +1,7 @@
-package cz.kdolezal.eventmanagementsystem.security;
+package cz.kdolezal.culturaleventshub.security;
 
-import cz.kdolezal.eventmanagementsystem.entity.UserEntity;
-import cz.kdolezal.eventmanagementsystem.repository.UserJpaRepository;
+import cz.kdolezal.culturaleventshub.entity.UserEntity;
+import cz.kdolezal.culturaleventshub.repository.UserJpaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

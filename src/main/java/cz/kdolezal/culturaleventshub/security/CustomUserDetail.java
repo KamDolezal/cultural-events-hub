@@ -1,6 +1,6 @@
-package cz.kdolezal.eventmanagementsystem.security;
+package cz.kdolezal.culturaleventshub.security;
 
-import cz.kdolezal.eventmanagementsystem.entity.UserEntity;
+import cz.kdolezal.culturaleventshub.entity.UserEntity;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

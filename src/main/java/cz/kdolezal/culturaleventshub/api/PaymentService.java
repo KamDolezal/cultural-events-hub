@@ -1,10 +1,10 @@
-package cz.kdolezal.eventmanagementsystem.api;
+package cz.kdolezal.culturaleventshub.api;
 
 
-import cz.kdolezal.eventmanagementsystem.api.request.PaymentAddRequest;
-import cz.kdolezal.eventmanagementsystem.api.request.PaymentAddRequestShoppingBasket;
-import cz.kdolezal.eventmanagementsystem.dto.PaymentDTO;
-import cz.kdolezal.eventmanagementsystem.entity.PaymentEntity;
+import cz.kdolezal.culturaleventshub.api.request.PaymentAddRequest;
+import cz.kdolezal.culturaleventshub.api.request.PaymentAddRequestShoppingBasket;
+import cz.kdolezal.culturaleventshub.dto.PaymentDTO;
+import cz.kdolezal.culturaleventshub.entity.PaymentEntity;
 
 import java.util.List;
 
